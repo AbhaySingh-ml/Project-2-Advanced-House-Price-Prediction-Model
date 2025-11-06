@@ -1,4 +1,4 @@
-# 🏠 Advanced House Price Prediction Mod
+# 🏠 Advanced House Price Prediction Model
 
 A comprehensive **Exploratory Data Analysis (EDA)** and **Machine Learning Regression** project based on the Kaggle dataset *["House Prices: Advanced Regression Techniques"](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)*.  
 
